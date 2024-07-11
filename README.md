@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AiSummarizer](https://dpai-sum-app.netlify.app/)
 
-- 🌱 I’m currently learning **MERN, DSA**
+- 🌱 I’m currently learning **MERN, DSA, ML**
 
 - 🔭 I’m currently working on [Metaverse](https://dpmetaverse.vercel.app/)
 
